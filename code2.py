@@ -1,4 +1,4 @@
-#function
+#function with parameters
 
 def add(a,b):
     print("sum",a+b)
