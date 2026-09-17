@@ -1,4 +1,4 @@
-#recurssion function
+#recursive function
 
 def countdown(n):
     if n == 0:
